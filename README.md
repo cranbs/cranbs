@@ -1,5 +1,5 @@
-# Hi there! 😶‍🌫️
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Iaminterestedinflareremmoval,imageinpaintingandlow-lightenhancement.)
+#  😶‍🌫️Hi there! Iaminterestedinflareremmoval,imageinpaintingandlow-lightenhancemen
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过！.)
 
 ![Metrics](/github-metrics.svg)
 
