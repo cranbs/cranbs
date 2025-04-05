@@ -1,5 +1,7 @@
 # Hi there! 😶‍🌫️
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=但我已飞过)
+
 
 ![Metrics](/github-metrics.svg)
 <picture>
