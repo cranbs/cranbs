@@ -1,5 +1,5 @@
 # Hi there! 😶‍🌫️
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am interested in flare remmoval, image inpainting and low-light enhancement.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am interested in flare remmoval, image inpainting and low-light enhancement.)
 
 ![Metrics](/github-metrics.svg)
 
