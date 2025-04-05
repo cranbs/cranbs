@@ -1,4 +1,4 @@
-#  😶‍🌫️Hi there! Iaminterestedinflareremmoval,imageinpaintingandlow-lightenhancemen
+#  😶‍🌫️Hi there! I am interested in flareremmoval, image inpainting and low-lightent enhancement.
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过！.)
 
 ![Metrics](/github-metrics.svg)
