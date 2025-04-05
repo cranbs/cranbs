@@ -1,5 +1,5 @@
 # Hi there! 😶‍🌫️
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+interested+in+low+light+enhancement+and+flare+removal+and+image+inpainting)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+interested+in+low+light;enhancement+and+flare+removal+and+image+inpainting)
 
 ![Metrics](/github-metrics.svg)
 <picture>
