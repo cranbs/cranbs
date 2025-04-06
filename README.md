@@ -1,16 +1,14 @@
 #  😶‍🌫️Hi there! Nice to see you!🧐
 ![](https://komarev.com/ghpvc/?username=cranbs)
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=cranbs&show_icons=true&theme=radical&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" width="400"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cranbs&theme=radical&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" width="337"/></td>
-</tr></table>
 
 ![Metrics](/github-metrics.svg)
+
 ## Research Interest
 - **low level vision:** image inpainting, flare removal and low-light enhancement.
 - **multi model learning:** RGB-D and infrared image fusion
 - **others:** fish-eye semantic segmentation 
 
+<img width="50%" align="right" alt="Github" src="/github-metrics.svg" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过!)
 ## Publications
@@ -19,7 +17,16 @@
 -  **基于全局语义学习和显著目标感知的激光干扰图像修复** [**[paper](http://emt.cnjournals.com/yqyb/article/abstract/20240703)**] <br>
    仪器仪表学报, 2024, 45(7): 38-51.
    
-  
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/cranbs/Awesome-Flare-Removal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=Awesome-Flare-Removal" />
+  </a>
+  <a href="https://github.com/cranbs/SGSFT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=SGSFT" />
+  </a>
+</p>
+
 
 
 <picture>
