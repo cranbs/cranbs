@@ -1,7 +1,8 @@
+<img width="50%" align="right" alt="Github" src="/github-metrics.svg" />
+
 #  😶‍🌫️Hi there! Nice to see you!🧐
 ![](https://komarev.com/ghpvc/?username=cranbs)
 
-<img width="50%" align="middle" alt="Github" src="/github-metrics.svg" />
 
 ## Research Interest
 - **low level vision:** image inpainting, flare removal and low-light enhancement.
