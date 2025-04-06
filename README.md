@@ -1,4 +1,10 @@
 #  😶‍🌫️Hi there! Nice to see you!🧐
+![](https://komarev.com/ghpvc/?username=cranbs)
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=cranbs&show_icons=true&theme=radical&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" width="400"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cranbs&theme=radical&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" width="337"/></td>
+</tr></table>
+
 ![Metrics](/github-metrics.svg)
 ## Research Interest
 - **low level vision:** image inpainting, flare removal and low-light enhancement.
