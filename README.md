@@ -13,7 +13,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过!)
 ## Publications
 - **Self-prior Guided Spatial and Fourier Transformer for Nighttime Flare Removal** [**[paper](https://ieeexplore.ieee.org/abstract/document/10877847)**] **[[code](https://github.com/cranbs/SGSFT)]** <br> 
-  IEEE Transactions on Automation Science and Engineering (TASE), 2025.
+  IEEE Transactions on Automation Science and Engineering (TASE), 2025, 22: 11996-12011.
 -  **基于全局语义学习和显著目标感知的激光干扰图像修复** [**[paper](http://emt.cnjournals.com/yqyb/article/abstract/20240703)**] <br>
    仪器仪表学报, 2024, 45(7): 38-51.
    
