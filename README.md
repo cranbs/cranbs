@@ -1,6 +1,7 @@
 <img width="50%" align="right" alt="Github" src="/github-metrics.svg" />
 
-#  😶‍🌫️Hi there! Nice to see you!🧐
+# 	𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑵𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖!
+
 ![](https://komarev.com/ghpvc/?username=cranbs)
 
 
@@ -11,6 +12,9 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过!)
+
+### <i>I leave no trace of wings in the air, but I am glad I have had my flight.</i>
+
 ## Publications
 - **Self-prior Guided Spatial and Fourier Transformer for Nighttime Flare Removal** [**[paper](https://ieeexplore.ieee.org/abstract/document/10877847)**] **[[code](https://github.com/cranbs/SGSFT)]** <br> 
   IEEE Transactions on Automation Science and Engineering (TASE), 2025, 22: 11996-12011.
