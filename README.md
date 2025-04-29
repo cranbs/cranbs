@@ -1,14 +1,14 @@
 <img width="50%" align="right" alt="Github" src="/github-metrics.svg" />
 
-# 	𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑵𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖!
+# 	𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑵𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖!           
 
 ![](https://komarev.com/ghpvc/?username=cranbs)
 
 
-## Research Interest
+## Research Interests
 - **low level vision:** image inpainting, flare removal and low-light enhancement.
 - **multi model learning:** RGB-D and infrared image fusion
-- **others:** fish-eye semantic segmentation 
+- **others:** fish-eye semantic segmentation and automatic parking
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过!)
