@@ -20,6 +20,7 @@
   IEEE Transactions on Automation Science and Engineering (TASE), 2025, 22: 11996-12011.
 -  **基于全局语义学习和显著目标感知的激光干扰图像修复** [**[paper](http://emt.cnjournals.com/yqyb/article/abstract/20240703)**] <br>
    仪器仪表学报, 2024, 45(7): 38-51.
+
    
 <!-- Its main projects -->
 <p align="center">
