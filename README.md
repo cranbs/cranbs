@@ -24,22 +24,13 @@
    
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/cranbs/Awesome-Flare-Removal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=Awesome-Flare-Removal" />
-  </a>
+  <a href="https://github.com/cranbs/IORT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=IORT" />
+</a>
   <a href="https://github.com/cranbs/SGSFT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=SGSFT" />
   </a>
-  
 </p>
-
-<p align="center">
-  <a href="[https://github.com/cranbs/SGSFT](https://github.com/cranbs/IORT)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cranbs&repo=IORT" />
-</a>
-</p>
-
-
 
 
 
