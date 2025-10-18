@@ -7,8 +7,8 @@
 
 ## Research Interests
 - **low level vision:** image inpainting, flare removal and low-light enhancement.
-- **multi model learning:** RGB-D and infrared image fusion
-- **others:** fish-eye semantic segmentation and automatic parking
+- **multi model learning:** RGB-D and infrared image fusion.
+- **others:** fish-eye object detection、 automatic parking and time series classification.
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天空没有留下翅膀的痕迹，但我已飞过!)
