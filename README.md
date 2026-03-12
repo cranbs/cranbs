@@ -1,4 +1,4 @@
-<img width="50%" align="right" alt="Github" src="/github-metrics.svg" />
+
 
 # 	𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑵𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖!           
 
